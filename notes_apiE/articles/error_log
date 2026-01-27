@@ -1,0 +1,9 @@
+[24-Jan-2026 15:04:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 15:04:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 15:10:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 15:11:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 15:27:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 15:42:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[24-Jan-2026 16:32:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/get.php on line 12
+[26-Jan-2026 21:06:44 Asia/Jakarta] PHP Warning:  Undefined array key "title" in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/add.php on line 6
+[26-Jan-2026 21:06:44 Asia/Jakarta] PHP Warning:  Undefined array key "content" in /home/tify9948/public_html/mobile_erina/notes_apiE/articles/add.php on line 7
